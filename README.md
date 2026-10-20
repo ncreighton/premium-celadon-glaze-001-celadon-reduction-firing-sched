@@ -1,0 +1,2 @@
+# premium-celadon-glaze-001-celadon-reduction-firing-sched
+Nailing celadon reduction firing means tracking multiple variables simultaneously—kiln temperature, atmosphere, hold times, and cooling curves. One missed note in your firing schedule ruins hours of prep and kiln space.  The Celadon Reduction Firing Schedule Planner gives you a battle-tested Notion template designed specifically for celadon potters
